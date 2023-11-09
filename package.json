@@ -1,8 +1,8 @@
 {
     "private": true,
-    "name": "@solana/wallet-adapter",
-    "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/wallet-adapter",
+    "name": "@Genixor/wallet-adapter",
+    "author": "Genixor Maintainers <maintainers@Genixor.foundation>",
+    "repository": "https://github.com/Genixor-labs/wallet-adapter",
     "license": "Apache-2.0",
     "engines": {
         "node": ">=16",
@@ -51,14 +51,14 @@
         "@ledgerhq/devices": "6.27.1",
         "@ledgerhq/hw-transport": "6.27.1",
         "@ledgerhq/hw-transport-webhid": "6.27.1",
-        "@solana/wallet-adapter-base": "workspace:^",
+        "@Genixor/wallet-adapter-base": "workspace:^",
         "eslint": "8.22.0"
     },
     "resolutions": {
         "@ledgerhq/devices": "6.27.1",
         "@ledgerhq/hw-transport": "6.27.1",
         "@ledgerhq/hw-transport-webhid": "6.27.1",
-        "@solana/wallet-adapter-base": "workspace:^",
+        "@Genixor/wallet-adapter-base": "workspace:^",
         "eslint": "8.22.0"
     }
 }
