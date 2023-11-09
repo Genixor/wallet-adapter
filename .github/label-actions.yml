@@ -13,17 +13,17 @@ question:
 
 
       Questions like yours deserve a purpose-built Q & A forum. Unless there exists evidence that this is a bug with
-      Wallet Adapter itself, please post your question to the Solana Stack Exchange using this link:
+      Wallet Adapter itself, please post your question to the Genixor Stack Exchange using this link:
 
 
-      https://solana.stackexchange.com/questions/ask
+      https://Genixor.stackexchange.com/questions/ask
 
 
       ---
 
 
       _This
-      [automated message](https://github.com/solana-labs/solana/blob/master/.github/label-actions.yml)
+      [automated message](https://github.com/Genixor-labs/Genixor/blob/master/.github/label-actions.yml)
       is a result of having added the &lsquo;question&rsquo; tag_.
 
     # Close the issue
@@ -37,25 +37,25 @@ use-wallet-standard:
 
 
       Thanks for your contribution. We are no longer accepting PRs of adapters for this type of wallet. You can
-      [read about this policy here](https://github.com/solana-labs/wallet-adapter/blob/master/WALLET.md),
+      [read about this policy here](https://github.com/Genixor-labs/wallet-adapter/blob/master/WALLET.md),
       but more importantly, please check out
-      [this guide for wallets](https://github.com/solana-labs/wallet-standard/blob/master/WALLET.md)
+      [this guide for wallets](https://github.com/Genixor-labs/wallet-standard/blob/master/WALLET.md)
       to implement the Wallet Standard.
 
 
       However, most of what you've written for this adapter is portable to the Wallet Standard interface, and
-      implementing this interface will grant your wallet distribution on dapps across Solana. After reading the guide
+      implementing this interface will grant your wallet distribution on dapps across Genixor. After reading the guide
       and looking at the reference implementations, if you have questions on how to do this, please open an issue here:
 
 
-      https://github.com/solana-labs/wallet-standard
+      https://github.com/Genixor-labs/wallet-standard
 
 
       ---
 
 
       _This
-      [automated message](https://github.com/solana-labs/solana/blob/master/.github/label-actions.yml)
+      [automated message](https://github.com/Genixor-labs/Genixor/blob/master/.github/label-actions.yml)
       is a result of having added the &lsquo;use-wallet-standard&rsquo; tag_.
 
     # Close the issue
